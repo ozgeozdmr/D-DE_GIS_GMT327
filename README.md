@@ -48,7 +48,7 @@ Top 10 Student Leaderboard (excluding `supervisor1` pilot account):
 ## Maps
 
 1. Spatio-Temporal Diffusion (T1 vs T2)
-[maps/map_15.png]
+(maps/map_15.png)
 
 2. Ecological Risk Density (Heatmap)
 [maps/map_2.png]
