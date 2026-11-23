@@ -41,4 +41,4 @@ Top 10 Student Leaderboard (excluding `supervisor1` pilot account):
 5. ozi - 34.50 pts (20 posts, 1 CORINE class)
 6. Ozeege - 31.40 pts (12 posts, 2 CORINE classes)
 7. lttlebdybgheart - 30.00 pts (15 posts, 1 CORINE class)
-8
+8. charlescarmichael -
