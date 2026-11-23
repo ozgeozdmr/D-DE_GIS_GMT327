@@ -41,4 +41,22 @@ Top 10 Student Leaderboard (excluding `supervisor1` pilot account):
 5. ozi - 34.50 pts (20 posts, 1 CORINE class)
 6. Ozeege - 31.40 pts (12 posts, 2 CORINE classes)
 7. lttlebdybgheart - 30.00 pts (15 posts, 1 CORINE class)
-8. charlescarmichael -
+8. charlescarmichael - 29.50 pts (13 posts, 1 CORINE class)
+9. patrickjane - 29.40 pts (12 posts, 2 CORINE classes)
+10. goktugnlc - 28.70 pts (11 posts, 2 CORINE classes)
+
+## Maps
+
+1. Spatio-Temporal Diffusion (T1 vs T2)
+[maps/map_15.png]
+
+2. Ecological Risk Density (Heatmap)
+[maps/map_2.png]
+
+## Notes
+- Used EPSG:32636 because Ankara (~32.8°E) is in UTM Zone 36N.
+- Fixed geometry errors in the clipped CORINE layer before Spatial Join.
+- Saved the QGIS project (`project/project.qgz`) with relative paths to `../Data/`.
+
+## Data License
+Contains data from DiDe - Digital Detectives of Environment (contributors), licensed under the DiDe Data Use License v1.0, downloaded on November 13, 2026.
